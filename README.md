@@ -37,7 +37,7 @@ the data and build machine learning models for cell-type classification.
 
 ## Methods & tools
 
-- **Language & libraries:** Python, scikit-learn, (optionally PyTorch)
+- **Language & libraries:** Python, scikit-learn, PyTorch
 - **Tasks:** clustering, classification, model comparison
 - **Environment:** originally developed in a Kaggle notebook and adapted
   to this repository for demonstration and reproducibility.
